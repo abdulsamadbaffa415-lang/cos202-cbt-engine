@@ -9,7 +9,7 @@ A web-based Computer-Based Test built with Flask for Assignmentt 4.
 - Shows start & finish timestamps
 - Full OOP with Question class 
 
-## How to run locally (for beginners)   
+## How to run locally (for beginners)    
 
 1. Open the folder in VS Code
 2. In terminal run:
